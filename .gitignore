@@ -1,0 +1,7 @@
+# ignore all files
+.gradle
+.cache
+/build
+/gradle
+/src/test**
+
